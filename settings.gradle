@@ -1,0 +1,11 @@
+rootProject.name = 'register-app'
+
+include ':applications'
+include ':src:shared'
+include ':src:register'
+
+buildCache {
+	local {
+		directory = "/build-cache"
+	}
+}

@@ -1,0 +1,13 @@
+version: '2.4'
+
+services:
+  postgres_register:
+    container_name: postgres-register
+    image: postgres:11.6
+    restart: always
+    ports:
+      - 5440:5432
+    environment:
+      - POSTGRES_PASSWORD=1234
+      - POSTGRES_DB=register_db
+    command: ["postgres", "-c", "log_statement=all"]

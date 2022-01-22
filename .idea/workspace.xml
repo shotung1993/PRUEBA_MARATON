@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a45bf98a-9249-4e34-a9bf-36d59fa4b1b9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/src">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="register-app" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1z9BvofVOSqzmU17qyzmimBWYqj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/shared/main/pe/lacafetalab/pao/shared/usecase" />
+      <recent name="$PROJECT_DIR$/src/register/main/pe/lacafetalab/pao/register/domain" />
+      <recent name="$PROJECT_DIR$/src/register/main/pe/lacafetalab/pao/register/infrastructure/persistence" />
+      <recent name="$PROJECT_DIR$/src/register/main/pe/lacafetalab/pao/register" />
+      <recent name="$PROJECT_DIR$/applications/main/pe/lacafetalab/pao/controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/applications/resources" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pe.lacafetalab.pao.shared.utils" />
+      <recent name="pe.lacafetalab.pao.controller" />
+      <recent name="pe.lacafetalab.pao.login_another_role.domain" />
+      <recent name="pe.lacafetalab.pao.login_another_role.infrastructure.repository" />
+      <recent name="pe.lacafetalab.pao.user.application.search_user" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose.dev.yml.postgres: Compose Deployment">
+    <configuration name="PaoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="register-app.applications.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pe.lacafetalab.pao.main.PaoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-app.applications.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pe.lacafetalab.pao.main.PaoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="docker-compose.dev.yml.postgres: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="postgres" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.dev.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.dev.yml.postgres: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a45bf98a-9249-4e34-a9bf-36d59fa4b1b9" name="Default Changelist" comment="" />
+      <created>1633550657542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633550657542</updated>
+      <workItem from="1633550662529" duration="2835000" />
+      <workItem from="1633618654463" duration="1229000" />
+      <workItem from="1634053823961" duration="1341000" />
+      <workItem from="1634327884787" duration="2951000" />
+      <workItem from="1634566651687" duration="123000" />
+      <workItem from="1634568949857" duration="1481000" />
+      <workItem from="1634589140644" duration="3700000" />
+      <workItem from="1634592949361" duration="8458000" />
+      <workItem from="1634658230995" duration="33857000" />
+      <workItem from="1634825090670" duration="21641000" />
+      <workItem from="1634911735841" duration="6026000" />
+      <workItem from="1634945237239" duration="328000" />
+      <workItem from="1635173852510" duration="8658000" />
+      <workItem from="1635183551098" duration="3662000" />
+      <workItem from="1635257222179" duration="4119000" />
+      <workItem from="1635271338761" duration="13214000" />
+      <workItem from="1635342361179" duration="17583000" />
+      <workItem from="1635439324393" duration="2581000" />
+      <workItem from="1635452579290" duration="4646000" />
+      <workItem from="1635517806560" duration="4470000" />
+      <workItem from="1635539558583" duration="19000" />
+      <workItem from="1635886903418" duration="1565000" />
+      <workItem from="1635892877351" duration="2005000" />
+      <workItem from="1635894909892" duration="1089000" />
+      <workItem from="1635952222505" duration="20080000" />
+      <workItem from="1636035033662" duration="14275000" />
+      <workItem from="1636127495882" duration="390000" />
+      <workItem from="1636146276069" duration="9063000" />
+      <workItem from="1636386202813" duration="7170000" />
+      <workItem from="1636470331203" duration="14120000" />
+      <workItem from="1636506126682" duration="5934000" />
+      <workItem from="1636555060268" duration="12905000" />
+      <workItem from="1636642924853" duration="1142000" />
+      <workItem from="1636729192258" duration="5444000" />
+      <workItem from="1636748542662" duration="28000" />
+      <workItem from="1637000634737" duration="4295000" />
+      <workItem from="1637162647914" duration="13031000" />
+      <workItem from="1637248218476" duration="9541000" />
+      <workItem from="1637330921578" duration="5773000" />
+      <workItem from="1637624874976" duration="9259000" />
+      <workItem from="1637683279801" duration="11590000" />
+      <workItem from="1637725496277" duration="670000" />
+      <workItem from="1637883984481" duration="3279000" />
+      <workItem from="1637937715664" duration="4404000" />
+      <workItem from="1638199425426" duration="6503000" />
+      <workItem from="1638306019181" duration="1228000" />
+      <workItem from="1638367859152" duration="7733000" />
+      <workItem from="1639080394143" duration="2485000" />
+      <workItem from="1639144819744" duration="141000" />
+      <workItem from="1639155207151" duration="36000" />
+      <workItem from="1639166988093" duration="219000" />
+      <workItem from="1639409654465" duration="118000" />
+      <workItem from="1639607802885" duration="2670000" />
+      <workItem from="1639779225254" duration="865000" />
+      <workItem from="1640012849227" duration="942000" />
+      <workItem from="1640095311512" duration="2123000" />
+      <workItem from="1640723588982" duration="2381000" />
+      <workItem from="1640785647061" duration="285000" />
+      <workItem from="1642004677778" duration="429000" />
+      <workItem from="1642812193311" duration="2065000" />
+      <workItem from="1642814593207" duration="1129000" />
+      <workItem from="1642815785370" duration="979000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="features/GAM-1380_Login_otro_usuario" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

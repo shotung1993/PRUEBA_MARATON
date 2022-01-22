@@ -1,0 +1,16 @@
+pe/lacafetalab/pao/register/domain/RegisterRepository.java
+ pe.lacafetalab.pao.register.domain.RegisterRepository
+pe/lacafetalab/pao/register/application/Register.java
+ pe.lacafetalab.pao.register.application.Register
+pe/lacafetalab/pao/register/application/RegisterCommandHandler.java
+ pe.lacafetalab.pao.register.application.RegisterCommandHandler
+pe/lacafetalab/pao/register/infrastructure/persistence/RegisterJpaRepository.java
+ pe.lacafetalab.pao.register.infrastructure.persistence.RegisterJpaRepository
+pe/lacafetalab/pao/register/domain/RegisterModel.java
+ pe.lacafetalab.pao.register.domain.RegisterModel
+pe/lacafetalab/pao/register/infrastructure/persistence/RegisterDao.java
+ pe.lacafetalab.pao.register.infrastructure.persistence.RegisterDao
+pe/lacafetalab/pao/register/infrastructure/persistence/RegisterSqlRepository.java
+ pe.lacafetalab.pao.register.infrastructure.persistence.RegisterSqlRepository
+pe/lacafetalab/pao/register/application/RegisterCommand.java
+ pe.lacafetalab.pao.register.application.RegisterCommand
